@@ -58,7 +58,7 @@ What’s a SIEM without alerts? I set up an alert to notify me of any Nmap scans
 
 # Wrapping Up 🎯
 
-Setting up this Elastic SIEM lab was a fantastic learning experience. It gave me hands-on practice with security monitoring and incident response. 
+Setting up this Elastic SIEM lab was a fantastic learning experience. It gave me hands-on practice with security monitoring. 
 
 Thanks for coming along on this adventure with me! If you have any questions or want to share your own experiences, feel free to reach out. Happy exploring! 🕵️‍♀️🚀
 
